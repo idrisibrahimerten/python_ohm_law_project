@@ -1,1 +1,2 @@
-# python_ohm_law_project
+# Python OHM Kanunu Projesi
+
